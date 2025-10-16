@@ -44,7 +44,7 @@ I thrive where **creativity meets engineering** — whether that’s designing A
 | **Fitness Forecast 🏅** | Real-time wellness app integrating weather & mood data; won *Best Use of Streamlit* at UdeMHacks. | Python · Streamlit · Gemini API |
 | **GreenRide** | Flutter app promoting sustainable commuting through CO₂ savings and distance tracking. | Flutter · Firebase |
 | **Embedded Robot System** | Built an autonomous light-tracking robot using ATmega328a microcontroller. | C/C++ · AVR Library |
-| **Artem** | Mobile gallery app for artists, featuring AR visualization & PostgreSQL backend. | Unity · PostgreSQL |
+| **Artem** | Mobile gallery app for artists, featuring AR visualization & PostgreSQL backend. |  Flutter · Unity · PostgreSQL |
 
 ---
 
