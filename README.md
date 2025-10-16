@@ -1,94 +1,109 @@
-<h1 align="center">✨ Hi there, I'm Rebecca Abi Chahine 👋</h1>
+<!-- HERO BANNER -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Rebecca+Abi+Chahine!;Software+Engineering+Student+%40+Polytechnique+Montr%C3%A9al;Full-Stack+%26+DevSecOps+Developer;Building+Tech+That+Empowers+People+🚀" alt="Typing SVG" />
+</h1>
+
+---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=6BCB77&center=true&vCenter=true&width=700&lines=Software+Engineer+in+the+making;Full-Stack+Developer+%7C+Cloud+%26+DevSecOps+Enthusiast;Turning+Ideas+into+Impactful+Software;Passionate+about+AI,+Security,+and+Human-Centered+Tech" alt="Typing SVG" />
+  <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="250" alt="Coding animation">
+</p>
+
+<p align="center">
+  <b>Software Engineering Student @ Polytechnique Montréal</b><br>
+  💡 Passionate about <b>Software Development</b>, <b>Cloud & DevSecOps</b>, and <b>AI-driven innovation</b><br>
+  🌍 Based in <b>Laval, QC</b> · Multilingual (FR · EN · AR)
 </p>
 
 ---
 
 ## 👩‍💻 About Me  
-I’m **Rebecca Abi Chahine**, a **Software Engineering student at Polytechnique Montréal** driven by curiosity, creativity, and purpose.  
-I specialize in **building scalable full-stack solutions**, exploring **DevSecOps pipelines**, and developing **AI-powered products** that solve real-world problems.  
 
-My work blends **engineering precision** with **design thinking** — creating technology that’s not just functional, but meaningful.  
+I’m **Rebecca Abi Chahine**, a **Software Engineering student** with a drive to turn complex problems into simple, impactful software.  
+Through internships at **Morgan Stanley** and **Loto-Québec**, I’ve built scalable APIs, automated pipelines, and developed interfaces used by real users.  
 
-🌍 *Driven by impact*  |  💻 *Grounded in software craft*  |  💡 *Inspired by innovation*
+I thrive where **creativity meets engineering** — whether that’s designing AI-powered apps, refining DevSecOps pipelines, or leading hackathon projects that blend human experience with technology.
 
----
-
-## ⚙️ Tech Stack  
-
-**Languages:**  
-`Java`  `Python`  `C/C++`  `Dart`  `JavaScript/TypeScript`  `SQL`  
-
-**Frameworks & Tools:**  
-`React`  `Next.js`  `Spring Boot`  `Flask`  `Docker`  `Selenium`  `GitLab CI/CD`  `Xray`  `Jira`  `MongoDB`  `PostgreSQL`  `Figma`  
-
-**Focus Areas:**  
-☁️ Cloud & DevSecOps 🤖 AI Integration 🎨 UX/UI Engineering 🔐 Secure Software Development  
+> “Every line of code I write carries a story of resilience, creativity, and purpose.”  
 
 ---
 
-## 💼 Experience  
+## 💼 Featured Experience  
 
-### **Software Developer Intern – Morgan Stanley ( Summer 2025 )**  
-- Engineered a **credit-evaluation cloning system**, reducing manual processing and improving reliability.  
-- Developed **RESTful APIs** using *Java + Spring Boot* and dynamic **React/TypeScript** interfaces.  
-- Contributed to Agile sprints and ensured maintainability through automated testing.  
-
-### **Software Developer Intern – Loto-Québec ( Winter 2025 )**  
-- Migrated automation pipelines from *Jenkins → Xray*, improving CI/CD performance.  
-- Designed modular test frameworks with *Java, Selenium, Spring Boot*.  
-- 🏆 **Extra Excellence Award** — recognized for leadership and technical excellence.  
+| 🏢 Company | 💡 Role | 🧰 Key Contributions |
+|-------------|----------|----------------------|
+| **Morgan Stanley** | Software Developer Intern | Designed a **credit evaluation cloning system** improving operational efficiency; built **REST APIs (Java + Spring Boot)** and **React UIs** following Agile best practices. |
+| **Loto-Québec** | Software Developer Intern | Migrated automation from **Jenkins → Xray**, designed **data-driven testing frameworks** in Java & Selenium; earned the **Extra Excellence Award** for leadership & technical impact. |
+| **PolyAI – Student Association** | Developer | Building and maintaining AI-driven tools to support community events and learning platforms. |
 
 ---
 
-## 🌟 Featured Projects  
+## 🌟 Highlight Projects  
 
-### 🧭 **CVue – BagelHacks 2025**  
-AI-driven hiring-feedback platform using **React + Flask + MongoDB + Cohere API** for transparent, fair candidate matching.  
-
-### 💪 **Fitness Forecast – UdeMHacks 2025 🏅**  
-Personalized wellness app built with **Python + Streamlit + Gemini API**, integrating real-time weather and mood data.  
-⭐ Awarded *Best Use of Streamlit* for human-centered innovation.  
-
-### 🚇 **GreenRide – PolyHX Hackathon 2024**  
-Flutter app promoting eco-friendly commuting by calculating CO₂ savings and travel costs with a **Firebase** backend.  
+| 🚀 Project | 💡 Description | 🧰 Tech Stack |
+|------------|----------------|---------------|
+| **CVue** | AI-powered hiring platform improving candidate-job matching with Cohere Rerank API. | React · Flask · MongoDB |
+| **Fitness Forecast 🏅** | Real-time wellness app integrating weather & mood data; won *Best Use of Streamlit* at UdeMHacks. | Python · Streamlit · Gemini API |
+| **GreenRide** | Flutter app promoting sustainable commuting through CO₂ savings and distance tracking. | Flutter · Firebase |
+| **Embedded Robot System** | Built an autonomous light-tracking robot using ATmega328a microcontroller. | C/C++ · AVR Library |
+| **Artem** | Mobile gallery app for artists, featuring AR visualization & PostgreSQL backend. | Unity · PostgreSQL |
 
 ---
 
-## 💬 Fun Fact  
-I blend **art and technology** — I once curated a public art exhibition and now bring that same creative energy to crafting seamless user experiences. 🎨💻  
+## 🧠 Technical Expertise  
+
+<div align="center">
+
+### 💻 Languages  
+<a href="#"><img src="https://skillicons.dev/icons?i=java,python,cpp,typescript,js,dart,html,css" /></a>
+
+### ⚙️ Frameworks & Tools  
+<a href="#"><img src="https://skillicons.dev/icons?i=react,nextjs,flask,spring,docker,selenium,git,gitlab,vscode,figma" /></a>
+
+### ☁️ DevSecOps & Cloud  
+GitLab CI/CD · Xray Testing Suite · Jira Automation · Docker Compose · AWS Basics
+
+### 🧠 AI & APIs  
+Cohere API · Gemini API · Streamlit · Flask AI Integration  
+
+### 🗄️ Databases  
+MongoDB · PostgreSQL · Firebase  
+
+</div>
 
 ---
 
-## 📊 GitHub Highlights  
+## 🏆 Achievements & Highlights  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rebeccaabc16&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" height="160" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rebeccaabc16&theme=tokyonight&hide_border=true" height="160" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rebeccaabc16&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
-</p>
+- 🥇 **Extra Excellence Award – Loto-Québec (2025)** – Recognized for outstanding leadership & innovation.  
+- 🧠 **Best Use of Streamlit – UdeMHacks (2025)** – AI-powered wellness app recognized for creativity & UX.  
+- 🎓 **Diversity & Inclusion Scholarship – Polytechnique Montréal (2023)** – Honoring resilience & excellence.  
+- 💬 **Hackathon Leader & Mentor** – Actively participating in BagelHacks, UdeMHacks, and PolyHX Hackathon.  
+- ⚜️ **Former Scout Leader** – 7 years of leadership & teamwork experience.  
 
 ---
 
-## 🌐 Connect with Me  
+## 🌐 Connect With Me  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rebecca-abi-chahine/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:rebeccaabc16@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="mailto:rebeccaabc16@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/rebeccaabc16" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://discord.com/users/rebeccaac" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
 
 ---
 
-<p align="center"><i>“Engineering is my language. Creativity is my accent.” ✨</i></p>
+<h3 align="center">✨ “Code with purpose, build with heart.” ✨</h3>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="250" alt="AI animation">
+</p>
