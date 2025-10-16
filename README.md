@@ -1,9 +1,7 @@
 <!-- HERO BANNER -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Rebecca+Abi+Chahine!;Software+Engineering+Student+%40+Polytechnique+Montr%C3%A9al;Full-Stack+%26+DevSecOps+Developer;Building+Tech+That+Empowers+People+🚀" alt="Typing SVG" />
+ Rebecca Abi Chahine
 </h1>
-
----
 
 <p align="center">
   <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="250" alt="Coding animation">
@@ -11,7 +9,7 @@
 
 <p align="center">
   <b>Software Engineering Student @ Polytechnique Montréal</b><br>
-  💡 Passionate about <b>Software Development</b>, <b>Cloud & DevSecOps</b>, and <b>AI-driven innovation</b><br>
+  💡 Passionate about <b>Software Development</b>, <b>Cloud & DevSecOps</b> <br>
   🌍 Based in <b>Laval, QC</b> · Multilingual (FR · EN · AR)
 </p>
 
