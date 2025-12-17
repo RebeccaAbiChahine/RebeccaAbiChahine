@@ -30,6 +30,8 @@ I thrive where **creativity meets engineering** — whether that’s designing A
 
 | 🏢 Company | 💡 Role | 🧰 Key Contributions |
 |-------------|----------|----------------------|
+| **Google Developer Group (GDG) Polytechnique Montréal** | Founder & Lead Organizer | Founded and leading the GDG chapter at Polytechnique Montréal; organizing tech talks, hands-on workshops, and community events to foster learning, collaboration, and industry exposure among students. |
+| **EY** | Cybersecurity Consultant Intern *(Incoming)* | Incoming role focused on cybersecurity consulting, secure systems, risk assessment, and best practices in application and infrastructure security. |
 | **Morgan Stanley** | Software Developer Intern | Designed a **credit evaluation cloning system** improving operational efficiency; built **REST APIs (Java + Spring Boot)** and **React UIs** following Agile best practices. |
 | **Loto-Québec** | Software Developer Intern | Migrated automation from **Jenkins → Xray**, designed **data-driven testing frameworks** in Java & Selenium; earned the **Extra Excellence Award** for leadership & technical impact. |
 | **PolyAI – Student Association** | Developer | Building and maintaining AI-driven tools to support community events and learning platforms. |
